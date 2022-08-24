@@ -1,11 +1,6 @@
 // PROJECT  : Serial Communication Streaming on 16 by 8 RGBW matrix
-// PURPOSE  : Cool stuff
-// COURSE   : ICS4U
 // AUTHOR   : Xander Chin
-// DATE     : I forget
 // MCU      : ATmega328P
-// STATUS   : Working
-// REFERENCE:
 
 extern "C" {
   void asmSerialSend();
