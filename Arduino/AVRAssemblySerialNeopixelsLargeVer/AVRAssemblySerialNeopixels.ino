@@ -1,4 +1,4 @@
-// PROJECT  : RGBW Matrix Assembly
+// PROJECT  : Serial Communication Streaming on 32 by 24 RGBW matrix
 // AUTHOR   : Xander Chin
 // MCU      : ATmega328P
 
