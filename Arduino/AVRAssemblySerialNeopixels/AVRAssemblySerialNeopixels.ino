@@ -1,11 +1,6 @@
-// PROJECT  :
-// PURPOSE  :
-// COURSE   :
+// PROJECT  : RGBW Matrix Assembly
 // AUTHOR   : Xander Chin
-// DATE     :
-// MCU      :
-// STATUS   :
-// REFERENCE:
+// MCU      : ATmega328P
 
 extern "C" {
   void asmSerialSend();
